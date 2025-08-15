@@ -1,8 +1,4 @@
-# CompetitionHub
 
-<p align="center">
-  <img src="【请在此处放入与“竞赛”相关的Banner图片URL，可从你的assets仓库引用】" width="800">
-</p>
 <h1 align="center">Lab4AI 竞赛中心 (CompetitionHub)</h1>
 
 <p align="center">

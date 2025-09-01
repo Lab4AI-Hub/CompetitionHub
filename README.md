@@ -16,7 +16,7 @@
         <strong>时间：</strong> 2025-04-28 ~ 2025-06-30
       </p>
       <p>
-        <strong>简介：</strong>以场景驱动为主题，聚焦智能算力应用，助力产业数字化转型。（IoU）。
+        <strong>简介：</strong>以场景驱动为主题，聚焦智能算力应用，助力产业数字化转型。
       </p>
       <p align="right" style="margin-bottom: 0px;">
       <a href="https://www.lab4ai.cn/competition/info?id=1956740088881844224"><strong>➡️ 查看详情 & 参与</strong></a>
@@ -31,7 +31,7 @@
         <strong>时间：</strong> 2025-06-11 - 2025年10月18日
       </p>
       <p>
-        <strong>简介：</strong> 以视觉感知为关键，设两赛道，推动相关技术研究与应用，面向多类团队开放。（IoU）。
+        <strong>简介：</strong> 以视觉感知为关键，设两赛道，推动相关技术研究与应用，面向多类团队开放。
       </p>
       <p align="right" style="margin-bottom: 0px;">
         <a href="https://www.lab4ai.cn/competition/info?id=1956712783097757696"><strong>➡️ 查看详情 & 参与</strong></a>

@@ -45,7 +45,7 @@
 
 ## 📚 历史竞赛 (Past Competitions)
 
-这里是我们过往竞赛的记录以及优胜者的智慧结晶。
+这里是我们过往竞赛的记录。
 
 <table width="100%">
   <thead>
@@ -59,24 +59,14 @@
       <td>
         <strong>WAIC 2022黑客马拉松因果学习和决策优化挑战赛</strong>
         <br>
+        <br>
         <small>简介：WAIC 黑客松是世界人工智能大会期间唯一一场黑客松赛事，从2019-2021大赛已成功举办3届，吸引了国内外数千支团队和个人参赛。</small>
+        <br>
         <br>
         <small>时间：2025.06.01 ~ 2025.08.01</small>
       </td>
       <td align="center">
         <a href="https://www.lab4ai.cn/competition/info?id=1956750899574575104"><strong>➡️ 查看详情</strong></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>...</strong>
-        <br>
-        <small>...</small>
-        <br>
-        <small>...</small>
-      </td>
-      <td align="center">
-        ...
       </td>
     </tr>
   </tbody>

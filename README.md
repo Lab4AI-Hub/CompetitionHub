@@ -76,7 +76,7 @@
 <p align="center">
   <strong><a href="https://github.com/Lab4AI-Hub">Lab4AI-Hub 主页</a></strong>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong><a href="【社区讨论区链接】">社区讨论区</a></strong>
+  <strong><a href="https://github.com/Lab4AI-Hub/.github/discussions/categories/ideas">社区讨论区</a></strong>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <strong><a href="https://github.com/Lab4AI-Hub/PaperHub/blob/main/CONTRIBUTING.md">成为贡献者</a></strong>
 </p>
